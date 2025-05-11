@@ -5,13 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamimrijan&label=Profile%20views&color=0e75b6&style=flat" alt="tamimrijan" /> </p>
 
-🔭 I’m currently working on [Color Palette & Dress Suggestion](https://github.com/tamimrijan/Color-Palette-Dress-Suggestion)
-
 - 🌱 I’m currently learning **GDscript, Godot Engine , Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tamimrijan?tab=repositories](https://github.com/tamimrijan?tab=repositories)
-
-- 📝 I regularly write articles on [www.pageonandroid.me](www.pageonandroid.me)
 
 - 💬 Ask me about **c++, c , java, and php**
 
