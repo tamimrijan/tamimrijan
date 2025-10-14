@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Tamim Ahmed Rijan</h1>
-<h3 align="center">I'm a code ninja from Bangladesh, skilled in the dark arts of C, C++, and Java. Currently, I'm trading in my keyboard for a controller and learning to build virtual worlds.</h3>
+<h3 align="center">Developer from Bangladesh. Fluent in C, C++, and Java. Currently learning how to turn lines of code into living, breathing virtual worlds.</h3>
 <img align="right" alt="Coding" width-"300" height="300" src="https://i.postimg.cc/NGdJmMGb/68747470733a2f2f692e726564642e69742f316431317338323064676d39312e676966.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamimrijan&label=Profile%20views&color=0e75b6&style=flat" alt="tamimrijan" /> </p>
