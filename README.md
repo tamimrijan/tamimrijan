@@ -18,10 +18,6 @@
 <img align="right" alt="Coding" width="300" src="https://i.postimg.cc/NGdJmMGb/68747470733a2f2f692e726564642e69742f316431317338323064676d39312e676966.gif" />
 
 I'm Tamim, a developer from **Bangladesh**. I like to build useful things and share them for free.
-
-My speakers had no bass control, so I made [my own app](https://github.com/tamimrijan/bass-control) for it.
-Now anyone can download it and use it. 🎚️
-
 I mostly code in **C, C++ and Java**. Right now I'm learning how to make games.
 
 - 🔭 **Building:** Windows apps and my first games
